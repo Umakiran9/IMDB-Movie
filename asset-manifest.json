@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IMDB-Movie-App/static/css/main.107e4302.chunk.css",
+    "main.js": "/IMDB-Movie-App/static/js/main.0bc3f7c4.chunk.js",
+    "main.js.map": "/IMDB-Movie-App/static/js/main.0bc3f7c4.chunk.js.map",
+    "runtime-main.js": "/IMDB-Movie-App/static/js/runtime-main.2f7afcb1.js",
+    "runtime-main.js.map": "/IMDB-Movie-App/static/js/runtime-main.2f7afcb1.js.map",
+    "static/js/2.88b3cfb8.chunk.js": "/IMDB-Movie-App/static/js/2.88b3cfb8.chunk.js",
+    "static/js/2.88b3cfb8.chunk.js.map": "/IMDB-Movie-App/static/js/2.88b3cfb8.chunk.js.map",
+    "index.html": "/IMDB-Movie-App/index.html",
+    "precache-manifest.5e9e94e13a5190a7b8bfbee8362dfb86.js": "/IMDB-Movie-App/precache-manifest.5e9e94e13a5190a7b8bfbee8362dfb86.js",
+    "service-worker.js": "/IMDB-Movie-App/service-worker.js",
+    "static/css/main.107e4302.chunk.css.map": "/IMDB-Movie-App/static/css/main.107e4302.chunk.css.map",
+    "static/js/2.88b3cfb8.chunk.js.LICENSE.txt": "/IMDB-Movie-App/static/js/2.88b3cfb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f7afcb1.js",
+    "static/js/2.88b3cfb8.chunk.js",
+    "static/css/main.107e4302.chunk.css",
+    "static/js/main.0bc3f7c4.chunk.js"
+  ]
+}
