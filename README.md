@@ -2,9 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Final result :
-
-https://imdb-movie-react.herokuapp.com/#/
 
 ## Resource
 
