@@ -9,7 +9,7 @@ https://www.youtube.com/playlist?list=PLG3RxIUKLJlbDDGeeoUCkinS2DUybp_1o
 
 ## Final output
 
-https://imdb-movie-clone.herokuapp.com/#/
+https://umakiran-imdb-movie-clone.herokuapp.com/#/
 
 ## Available Scripts
 
