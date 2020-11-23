@@ -7,6 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://www.youtube.com/playlist?list=PLG3RxIUKLJlbDDGeeoUCkinS2DUybp_1o
 
+## Final output
+
+https://imdb-movie-clone.herokuapp.com/#/
+
 ## Available Scripts
 
 In the project directory, you can run:
